@@ -14,7 +14,7 @@ The application should provide quick access to the records maintained and must r
 business   so   that   the   growth   can   be   easily compared and should provide with the various reports showing the related 
 details so that the important decisions could be taken easily.
 
-![](Images/Project%20Images/Screenshot%20(375).png)
+![](images/Project%20Images/Screenshot%20(371).png)
 
 # DBMS 
  
@@ -45,8 +45,9 @@ They can view the issue and return dates of any book.
 This application can be used by any library system to automate the process.
 
 The different areas where we can use this application are:
-                •	Any education institution can make use of it for providing information about books borrowed, books available and keeping tracks of
-                   date of issue and return.
+                
+                •	Any education institution can make use of it for providing information about books borrowed, books available and keeping tracks of   date of issue and return.
+              
               •	It can be used in offices and modifications can be done according to requirements.
 
 
