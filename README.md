@@ -20,7 +20,7 @@ details so that the important decisions could be taken easily.
  
  Concept used
 1. all Tables are 2N Normalised
-2. We used differnt triggres.
+2. We used different triggers.
 3. We used Procedures to Automate Task of Db.
 4. Join Queries to get Particular book details.
 5. Primary And Forign Keys
