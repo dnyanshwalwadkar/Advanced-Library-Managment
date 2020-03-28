@@ -14,7 +14,7 @@ The application should provide quick access to the records maintained and must r
 business   so   that   the   growth   can   be   easily compared and should provide with the various reports showing the related 
 details so that the important decisions could be taken easily.
 
-![](Project Images/)
+![](Images/Project%20Images/Screenshot%20(375).png)
 
 # DBMS 
  
